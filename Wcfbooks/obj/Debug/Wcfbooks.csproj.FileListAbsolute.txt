@@ -1,0 +1,15 @@
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\Wcfbooks.dll.config
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\Wcfbooks.dll
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\Wcfbooks.pdb
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\booksdal.dll
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\EntityFramework.dll
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\booksdal.pdb
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\booksdal.dll.config
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\EntityFramework.xml
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\obj\Debug\Wcfbooks.csprojAssemblyReference.cache
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\obj\Debug\Wcfbooks.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\obj\Debug\Wcfbooks.csproj.CopyComplete
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\obj\Debug\Wcfbooks.dll
+C:\Users\npinnamaraju\source\repos\Wcfbooks\Wcfbooks\obj\Debug\Wcfbooks.pdb
